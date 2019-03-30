@@ -1,0 +1,34 @@
+.top {
+    margin-top:20px;
+    margin-bottom:30px;
+}
+
+#title {
+    text-align:center;
+}
+
+.buttonGroup {
+    margin-bottom:20px;
+    text-align:center;
+}
+
+.buttonGroup button {
+    margin-left: 1.5px;
+    margin-right: 1.5px;
+}
+
+.contain {
+    display: grid;
+    padding: 1px;
+    width: 500px;
+    height: 500px;
+    max-width: 500px;
+    min-height: 500px;
+    margin: 0 auto;
+    border: 10px solid black;
+}
+
+.gr {
+    border: 0.7px solid black;
+    background-color: white;
+}
