@@ -1,1 +1,1 @@
-An Etch-A-Sketch Web App made with JavaScript's DOM manipulation methods.
+An Etch-A-Sketch minigame made with vanilla JS.
